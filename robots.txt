@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: obzory-kazino-s-zhivym-dilerom.github.io
+Sitemap: https://obzory-kazino-s-zhivym-dilerom.github.io/sitemap.xml
